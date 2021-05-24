@@ -1,6 +1,6 @@
 ### Hello 👩🏼‍💻
 
-My name is Daniela Morsch, I’m from Brazil 🇧🇷 I’m android developer mobile Jr.
+My name is Daniela Morsch, I’m from Brazil 🇧🇷  I’m android developer mobile Jr.
 
 
 
